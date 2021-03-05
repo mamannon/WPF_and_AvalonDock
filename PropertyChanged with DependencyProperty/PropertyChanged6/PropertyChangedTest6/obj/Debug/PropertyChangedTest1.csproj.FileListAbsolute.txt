@@ -1,0 +1,15 @@
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\bin\Debug\PropertyChangedTest1.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\bin\Debug\PropertyChangedTest1.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\bin\Debug\PropertyChangedTest1.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged1\PropertyChangedTest1\obj\Debug\PropertyChangedTest1.pdb

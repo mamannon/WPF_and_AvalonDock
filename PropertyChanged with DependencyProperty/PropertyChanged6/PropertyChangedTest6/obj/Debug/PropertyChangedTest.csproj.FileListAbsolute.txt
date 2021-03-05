@@ -1,0 +1,182 @@
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\bin\Debug\PropertyChangedTest2.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\bin\Debug\PropertyChangedTest2.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\bin\Debug\PropertyChangedTest2.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\PropertyChangedTest.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\MyView.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\MyView.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.csproj.CopyComplete
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\obj\Debug\PropertyChangedTest.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged3\PropertyChangedTest3\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\PropertyChangedTest.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\MyView.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\MyView.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.csproj.CopyComplete
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged4\PropertyChangedTest4\obj\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\MyView.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\PropertyChangedTest.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\MyView.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged5\PropertyChangedTest5\obj\Debug\PropertyChangedTest.csproj.CopyComplete
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\MyView.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\MyView.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.CopyComplete
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csprojAssemblyReference.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\MainWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\MyView.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\UserControlWindow.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\App.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest_MarkupCompile.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest_MarkupCompile.lref
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\MainWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\UserControlWindow.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.exe.config
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.exe
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\PropertyChangedTest.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\MyView.baml
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.g.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.Properties.Resources.resources
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.GenerateResource.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Kokeiluja\PropertyChanged with DependencyProperty\PropertyChanged6\PropertyChangedTest6\obj\Debug\PropertyChangedTest.csproj.CopyComplete
