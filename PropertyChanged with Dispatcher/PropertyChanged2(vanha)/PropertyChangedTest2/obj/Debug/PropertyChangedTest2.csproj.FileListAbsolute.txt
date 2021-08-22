@@ -1,7 +1,0 @@
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest2.csprojAssemblyReference.cache
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\UserControlWindow.g.cs
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\App.g.cs
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest1_MarkupCompile.cache
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest1_MarkupCompile.lref
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest1.exe
-C:\Users\Mikael\Kokeiluja\PropertyChanged\PropertyChanged2\PropertyChangedTest2\obj\Debug\PropertyChangedTest1.pdb
