@@ -13,5 +13,5 @@ ObservableCollection.
 
 This solution uses the recommended INotifyPropertyChanged interface. It is also worth mentioning, 
 that you probably don't need INotifyPropertyChanged, DependencyProperty or Dispatcher to establish 
-the reflection in WPF, because there are components like DataGrid and ObservableCollection, 
-which implement reflection already out of the box. However, Label is not such a component.
+the binding in WPF, because there are components like DataGrid and ObservableCollection, 
+which implement binding already out of the box. However, Label is not such a component.
